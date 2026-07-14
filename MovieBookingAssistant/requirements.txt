@@ -1,0 +1,15 @@
+altair
+pandas
+streamlit
+langchain
+RapidFuzz
+langchain-chroma
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-core
+langgraph
+psycopg2-binary
+mysql-connector-python
+fuzzywuzzy
+python-dotenv

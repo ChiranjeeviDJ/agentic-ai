@@ -1,0 +1,102 @@
+{
+  "Pirates of Carribean": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.07.53+PM.jpeg",
+    "genre": "Adventure"
+  },
+  "Avatar Fire and Ash": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.11.58+PM.jpeg",
+    "genre": "Science Fiction"
+  },
+  "A Joker": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.12.41+PM.jpeg",
+    "genre": "Drama"
+  },
+  "The King of the streets": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.13.52+PM.jpeg",
+    "genre": "Crime"
+  },
+  "Nicholas Cage WindTalkers": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.14.27+PM.jpeg",
+    "genre": "War"
+  },
+  "HarryPotter and the prisoner": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.14.48+PM.jpeg",
+    "genre": "Fantasy"
+  },
+  "Stepping into Love": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.21.21+PM.jpeg",
+    "genre": "Romance"
+  },
+  "The Woman King": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.21.45+PM.jpeg",
+    "genre": "Action"
+  },
+  "Mufasa: The Lion King": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.21.59+PM.jpeg",
+    "genre": "Animation"
+  },
+  "Salt": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.22.20+PM.jpeg",
+    "genre": "Thriller"
+  },
+  "The 40 Year Old Virgin": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.22.35+PM.jpeg",
+    "genre": "Comedy"
+  },
+  "My OxFord Year": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.22.57+PM.jpeg",
+    "genre": "Drama"
+  },
+  "Jurrasic World Rebirth": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.09.00+PM.jpeg",
+    "genre": "Adventure"
+  },
+  "Johnny English Reborn": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.24.07+PM.jpeg",
+    "genre": "Comedy"
+  },
+  "Blue Valentine": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.24.38+PM.jpeg",
+    "genre": "Romance"
+  },
+  "Anaconda Cursed Jungle": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.24.48+PM.jpeg",
+    "genre": "Horror"
+  },
+  "Red Notice": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.25.52+PM.jpeg",
+    "genre": "Action"
+  },
+  "The Time Travellers Wife": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.26.20+PM.jpeg",
+    "genre": "Science Fiction"
+  },
+  "Wander Woman 84": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.26.41+PM.jpeg",
+    "genre": "Action"
+  },
+  "Snatch": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.26.59+PM.jpeg",
+    "genre": "Crime"
+  },
+  "Kraven The Hunter": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.27.20+PM.jpeg",
+    "genre": "Action"
+  },
+  "We were the millers": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.27.59+PM.jpeg",
+    "genre": "Comedy"
+  },
+  "The Warriors way": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.28.45+PM.jpeg",
+    "genre": "Action"
+  },
+  "Lake Fear 3": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.29.59+PM.jpeg",
+    "genre": "Horror"
+  },
+  "Hell Boy": {
+    "image_url": "https://movie-app-bucket-2025.s3.eu-north-1.amazonaws.com/WhatsApp+Image+2025-09-28+at+8.30.13+PM.jpeg",
+    "genre": "Action"
+  }
+}
